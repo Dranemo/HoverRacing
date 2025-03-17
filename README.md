@@ -102,7 +102,7 @@ Embark on a frantic race against time on a topsy-turvy rainbow road! Destroy ast
 ## Credits <a name="Credits"></a>
 
 * Caillot Yanaël - [LinkedIn](https://www.linkedin.com/in/ycaillot/) - [GitHub](https://github.com/Dranemo)
-* Choquet Evan - [LinkedIn]([https://www.linkedin.com/in/ycaillot/](https://www.linkedin.com/in/evan-choquet-a9031b265/)) - [GitHub](https://github.com/Snip2Fou)
+* Choquet Evan - [LinkedIn]([https://www.linkedin.com/in/ycaillot/](https://www.linkedin.com/in/evan-choquet-a9031b265/) - [GitHub](https://github.com/Snip2Fou)
 
 ## License <a name="License"></a>
 We are the owner of this project. You are permitted to view and execute this code for evaluation or demonstration purposes only. Any modification, distribution, or commercial use is prohibited without our explicit permission.
